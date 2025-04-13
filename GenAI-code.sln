@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 - HelloAIChatApp", "01 - HelloAIChatApp\01 - HelloAIChatApp.csproj", "{C7369E7C-49E2-4A0E-9BEB-1F172FD2F04F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 - Basic Chat App", "02 - Basic Chat App\02 - Basic Chat App.csproj", "{2350E0FF-274C-41C0-9951-915AD3D223AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{C7369E7C-49E2-4A0E-9BEB-1F172FD2F04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7369E7C-49E2-4A0E-9BEB-1F172FD2F04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7369E7C-49E2-4A0E-9BEB-1F172FD2F04F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2350E0FF-274C-41C0-9951-915AD3D223AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2350E0FF-274C-41C0-9951-915AD3D223AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2350E0FF-274C-41C0-9951-915AD3D223AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2350E0FF-274C-41C0-9951-915AD3D223AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
