@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 - HelloAIChatApp", "01 -
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 - Basic Chat App", "02 - Basic Chat App\02 - Basic Chat App.csproj", "{2350E0FF-274C-41C0-9951-915AD3D223AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 - QandA Chat App", "03 - QandA Chat App\03 - QandA Chat App.csproj", "{45E327E3-7DDF-4478-9CE4-34DEDC977AB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{2350E0FF-274C-41C0-9951-915AD3D223AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2350E0FF-274C-41C0-9951-915AD3D223AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2350E0FF-274C-41C0-9951-915AD3D223AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E327E3-7DDF-4478-9CE4-34DEDC977AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E327E3-7DDF-4478-9CE4-34DEDC977AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E327E3-7DDF-4478-9CE4-34DEDC977AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E327E3-7DDF-4478-9CE4-34DEDC977AB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

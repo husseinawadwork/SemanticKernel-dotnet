@@ -1,0 +1,6 @@
+/*
+dotnet add package Microsoft.Extensions.Configuration --version 9.0.4
+dotnet add package Microsoft.Extensions.Configuration.UserSecrets --version 9.0.4
+dotnet add package Microsoft.SemanticKernel --version 1.42.0
+dotnet add package Microsoft.SemanticKernel.Connectors.Ollama --version 1.42.0-alpha
+*/
