@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 - AI Functions", "04 - A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 - AI Function SK", "05 - AI Function SK\05 - AI Function SK.csproj", "{238572C4-4B2A-4717-A07F-4AF4D78CAED4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieVectorShared", "MovieVectorShared\MovieVectorShared.csproj", "{33102F01-24B0-433A-AC69-5342B03B0590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 - RAG Vector Memory", "06 - RAG Vector Memory\06 - RAG Vector Memory.csproj", "{289EC340-3C30-40E4-A49E-29E87422D377}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{238572C4-4B2A-4717-A07F-4AF4D78CAED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{238572C4-4B2A-4717-A07F-4AF4D78CAED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{238572C4-4B2A-4717-A07F-4AF4D78CAED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33102F01-24B0-433A-AC69-5342B03B0590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33102F01-24B0-433A-AC69-5342B03B0590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33102F01-24B0-433A-AC69-5342B03B0590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33102F01-24B0-433A-AC69-5342B03B0590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{289EC340-3C30-40E4-A49E-29E87422D377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289EC340-3C30-40E4-A49E-29E87422D377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{289EC340-3C30-40E4-A49E-29E87422D377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{289EC340-3C30-40E4-A49E-29E87422D377}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
