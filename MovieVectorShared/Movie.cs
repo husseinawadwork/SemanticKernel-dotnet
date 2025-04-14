@@ -22,7 +22,7 @@ public class Movie<T>
 
 public class MovieVector<T> : Movie<T>
 {
-    [VectorStoreRecordVector(384, DistanceFunction.CosineSimilarity)]
+    [VectorStoreRecordVector(3072, DistanceFunction.CosineSimilarity)]
     public ReadOnlyMemory<float> Vector { get; set; }
 }
 

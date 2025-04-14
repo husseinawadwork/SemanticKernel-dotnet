@@ -1,0 +1,7 @@
+/*
+dotnet add package Azure.Identity --version 1.14.0-beta.1
+dotnet add package Microsoft.Extensions.AI.Ollama --version 9.3.0-preview.1.25114.11
+dotnet add package Microsoft.Extensions.Configuration.UserSecrets --version 9.0.2
+dotnet add package Microsoft.SemanticKernel.Connectors.AzureAISearch --version 1.38.0-preview
+dotnet add package Microsoft.Extensions.VectorData.Abstractions --version 9.0.0-preview.1.25078.1
+*/

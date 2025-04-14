@@ -1,1 +1,0 @@
-// dotnet add package Microsoft.Extensions.VectorData.Abstractions --version 9.0.0-preview.1.25161.1
