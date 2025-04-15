@@ -1,0 +1,7 @@
+/*
+dotnet add package Microsoft.KernelMemory.Abstractions --version 0.97.250211.1
+dotnet add package Microsoft.KernelMemory.AI.Ollama --version 0.97.250211.1
+dotnet add package Microsoft.KernelMemory.Core --version 0.97.250211.1
+dotnet add package Microsoft.SemanticKernel --version 1.38.0
+dotnet add package Microsoft.SemanticKernel.Connectors.Ollama --version 1.38.0-alpha
+*/

@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 - RAG Vector Memory", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 - RAG Azure AI", "07 - RAG Azure AI\07 - RAG Azure AI.csproj", "{F77B4E81-4866-4DA4-9737-663F0359FFF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08 - RAG SK", "08 - RAG SK\08 - RAG SK.csproj", "{FD375ED5-B0D4-42F0-BD33-0443ACBAB1AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{F77B4E81-4866-4DA4-9737-663F0359FFF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F77B4E81-4866-4DA4-9737-663F0359FFF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F77B4E81-4866-4DA4-9737-663F0359FFF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD375ED5-B0D4-42F0-BD33-0443ACBAB1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD375ED5-B0D4-42F0-BD33-0443ACBAB1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD375ED5-B0D4-42F0-BD33-0443ACBAB1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD375ED5-B0D4-42F0-BD33-0443ACBAB1AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
