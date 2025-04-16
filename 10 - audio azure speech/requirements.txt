@@ -1,0 +1,4 @@
+/*
+dotnet add package Microsoft.CognitiveServices.Speech --version 1.42.0
+dotnet add package Microsoft.Extensions.Configuration.UserSecrets --version 9.0.2
+*/

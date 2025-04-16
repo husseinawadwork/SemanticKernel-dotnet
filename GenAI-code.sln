@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08 - RAG SK", "08 - RAG SK\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 - Images Azure AI", "09 - Images Azure AI\09 - Images Azure AI.csproj", "{45B7B2E4-75DD-4685-8B2D-0F8C78A299BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - audio azure speech", "10 - audio azure speech\10 - audio azure speech.csproj", "{C0DDF506-89E3-4456-9991-5A36ED75BAAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{45B7B2E4-75DD-4685-8B2D-0F8C78A299BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45B7B2E4-75DD-4685-8B2D-0F8C78A299BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45B7B2E4-75DD-4685-8B2D-0F8C78A299BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0DDF506-89E3-4456-9991-5A36ED75BAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0DDF506-89E3-4456-9991-5A36ED75BAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0DDF506-89E3-4456-9991-5A36ED75BAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0DDF506-89E3-4456-9991-5A36ED75BAAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
