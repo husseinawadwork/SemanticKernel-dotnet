@@ -1,0 +1,5 @@
+/*
+dotnet add package Microsoft.Extensions.AI --version 9.3.0-preview.1.25114.11
+dotnet add package Microsoft.Extensions.AI.AzureAIInference --version 9.3.0-preview.1.25114.11
+dotnet add package Microsoft.Extensions.Configuration.UserSecrets --version 9.0.3
+*/
