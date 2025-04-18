@@ -1,0 +1,4 @@
+/*
+dotnet add package Microsoft.SemanticKernel --version 1.38.0
+dotnet add package Microsoft.Extensions.Configuration.UserSecrets --version 9.0.2
+*/

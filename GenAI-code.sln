@@ -25,6 +25,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 - Images Azure AI", "09 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - audio azure speech", "10 - audio azure speech\10 - audio azure speech.csproj", "{C0DDF506-89E3-4456-9991-5A36ED75BAAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 - AI agent", "11 - AI agent\11 - AI agent.csproj", "{7E87862C-2C3A-4549-840F-902936141865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 - AI Travel agent", "12 - AI Travel agent\12 - AI Travel agent.csproj", "{565DD8BB-3764-4943-9BDE-AEA55615BF81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 - Reasoning", "13 - Reasoning\13 - Reasoning.csproj", "{79A7F356-79D6-4062-9454-31DE6BD3FA2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +84,17 @@ Global
 		{C0DDF506-89E3-4456-9991-5A36ED75BAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0DDF506-89E3-4456-9991-5A36ED75BAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0DDF506-89E3-4456-9991-5A36ED75BAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E87862C-2C3A-4549-840F-902936141865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E87862C-2C3A-4549-840F-902936141865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E87862C-2C3A-4549-840F-902936141865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E87862C-2C3A-4549-840F-902936141865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565DD8BB-3764-4943-9BDE-AEA55615BF81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565DD8BB-3764-4943-9BDE-AEA55615BF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565DD8BB-3764-4943-9BDE-AEA55615BF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565DD8BB-3764-4943-9BDE-AEA55615BF81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79A7F356-79D6-4062-9454-31DE6BD3FA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A7F356-79D6-4062-9454-31DE6BD3FA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A7F356-79D6-4062-9454-31DE6BD3FA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A7F356-79D6-4062-9454-31DE6BD3FA2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
