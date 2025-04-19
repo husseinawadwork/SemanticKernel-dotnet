@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18 - SK yaml prompt", "18 -
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19 - SK dependency injection", "19 - SK dependency injection\19 - SK dependency injection.csproj", "{DF01FA5A-B6F0-4F5F-9D36-09E452635019}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20 - SK chat prompt", "20 - SK chat prompt\20 - SK chat prompt.csproj", "{698B70A6-02F6-49F9-AB0D-55D618148C25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -132,5 +134,9 @@ Global
 		{DF01FA5A-B6F0-4F5F-9D36-09E452635019}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF01FA5A-B6F0-4F5F-9D36-09E452635019}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF01FA5A-B6F0-4F5F-9D36-09E452635019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698B70A6-02F6-49F9-AB0D-55D618148C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698B70A6-02F6-49F9-AB0D-55D618148C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698B70A6-02F6-49F9-AB0D-55D618148C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698B70A6-02F6-49F9-AB0D-55D618148C25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
