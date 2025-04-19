@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 - Eval a Model response"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15 - Eval with reporting", "15 - Eval with reporting\15 - Eval with reporting.csproj", "{A069575B-D809-4AE0-B3B2-A8E2ECE67FDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16 - SK_Create Kernel", "16 - SK_Create Kernel\16 - SK_Create Kernel.csproj", "{30A2AC72-31CB-4B9E-AB0A-AA4ADCCF8A3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,5 +110,9 @@ Global
 		{A069575B-D809-4AE0-B3B2-A8E2ECE67FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A069575B-D809-4AE0-B3B2-A8E2ECE67FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A069575B-D809-4AE0-B3B2-A8E2ECE67FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A2AC72-31CB-4B9E-AB0A-AA4ADCCF8A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A2AC72-31CB-4B9E-AB0A-AA4ADCCF8A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A2AC72-31CB-4B9E-AB0A-AA4ADCCF8A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A2AC72-31CB-4B9E-AB0A-AA4ADCCF8A3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
