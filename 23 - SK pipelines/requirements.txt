@@ -1,0 +1,5 @@
+/*
+dotnet add package Microsoft.SemanticKernel
+dotnet add package Microsoft.Extensions.Logging
+dotnet add package Microsoft.Extensions.Logging.Console
+*/
