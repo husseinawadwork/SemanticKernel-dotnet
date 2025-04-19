@@ -1,0 +1,34 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "contents": [
+        {
+          "$type": "text",
+          "text": "{\n    \"relevance\": 5,\n    \"relevanceReasoning\": \"100% of the response is 100% related to the request.\",\n    \"relevanceReasons\": [],\n    \"truth\": 4,\n    \"truthReasoning\": \"Most of the response is true, but the distances are given in both miles and kilometers, which is not consistent with the request for imperial measurements only.\",\n    \"truthReasons\": [\"truth_reason_incorrect_information\"],\n    \"completeness\": 5,\n    \"completenessReasoning\": \"The response includes all points that are necessary to address the request.\",\n    \"completenessReasons\": []\n}"
+        }
+      ],
+      "messageId": "chatcmpl-BNrFEkWpYODWCuGFP3MmT8W2WV6gt"
+    }
+  ],
+  "responseId": "chatcmpl-BNrFEkWpYODWCuGFP3MmT8W2WV6gt",
+  "modelId": "gpt-4o-mini-2024-07-18",
+  "createdAt": "2025-04-19T01:25:16+00:00",
+  "finishReason": "stop",
+  "usage": {
+    "inputTokenCount": 2666,
+    "outputTokenCount": 135,
+    "totalTokenCount": 2801,
+    "additionalCounts": {
+      "InputTokenDetails.AudioTokenCount": 0,
+      "InputTokenDetails.CachedTokenCount": 0,
+      "OutputTokenDetails.ReasoningTokenCount": 0,
+      "OutputTokenDetails.AudioTokenCount": 0,
+      "OutputTokenDetails.AcceptedPredictionTokenCount": 0,
+      "OutputTokenDetails.RejectedPredictionTokenCount": 0
+    }
+  },
+  "additionalProperties": {
+    "SystemFingerprint": "fp_b705f0c291"
+  }
+}

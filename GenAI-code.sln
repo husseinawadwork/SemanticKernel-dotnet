@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 - Reasoning", "13 - Reas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 - Eval a Model response", "14 - Eval a Model response\14 - Eval a Model response.csproj", "{3E25EC17-06D3-4FF8-8D7E-A6EE21F54E58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15 - Eval with reporting", "15 - Eval with reporting\15 - Eval with reporting.csproj", "{A069575B-D809-4AE0-B3B2-A8E2ECE67FDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +104,9 @@ Global
 		{3E25EC17-06D3-4FF8-8D7E-A6EE21F54E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E25EC17-06D3-4FF8-8D7E-A6EE21F54E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E25EC17-06D3-4FF8-8D7E-A6EE21F54E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A069575B-D809-4AE0-B3B2-A8E2ECE67FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A069575B-D809-4AE0-B3B2-A8E2ECE67FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A069575B-D809-4AE0-B3B2-A8E2ECE67FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A069575B-D809-4AE0-B3B2-A8E2ECE67FDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

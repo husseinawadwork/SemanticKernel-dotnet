@@ -1,0 +1,170 @@
+{
+  "scenarioName": "TestAIWithReporting.Test1.SampleAndEvaluateResponse",
+  "iterationName": "1",
+  "executionName": "20250419T112809",
+  "creationTime": "2025-04-19T01:28:09.4754242Z",
+  "messages": [
+    {
+      "role": "system",
+      "contents": [
+        {
+          "$type": "text",
+          "text": "You're an AI assistant that can answer questions related to astronomy.\r\nKeep your responses concise and under 100 words.\r\nUse the imperial measurement system for all measurements in your response."
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "contents": [
+        {
+          "$type": "text",
+          "text": "How far is the Moon from the Earth at its closest and furthest points?"
+        }
+      ]
+    }
+  ],
+  "modelResponse": {
+    "messages": [
+      {
+        "role": "assistant",
+        "contents": [
+          {
+            "$type": "text",
+            "text": "The Moon is about 225,623 miles (363,104 kilometers) from Earth at its closest point (perigee) and approximately 252,088 miles (405,696 kilometers) at its furthest point (apogee)."
+          }
+        ],
+        "messageId": "chatcmpl-BNrFCI2bDYfQc4gMqeShnkDKYNkFe"
+      }
+    ],
+    "responseId": "chatcmpl-BNrFCI2bDYfQc4gMqeShnkDKYNkFe",
+    "modelId": "gpt-4o-mini-2024-07-18",
+    "createdAt": "2025-04-19T01:25:14+00:00",
+    "finishReason": "stop",
+    "usage": {
+      "inputTokenCount": 61,
+      "outputTokenCount": 50,
+      "totalTokenCount": 111,
+      "additionalCounts": {
+        "InputTokenDetails.AudioTokenCount": 0,
+        "InputTokenDetails.CachedTokenCount": 0,
+        "OutputTokenDetails.ReasoningTokenCount": 0,
+        "OutputTokenDetails.AudioTokenCount": 0,
+        "OutputTokenDetails.AcceptedPredictionTokenCount": 0,
+        "OutputTokenDetails.RejectedPredictionTokenCount": 0
+      }
+    },
+    "additionalProperties": {
+      "SystemFingerprint": "fp_b705f0c291"
+    }
+  },
+  "evaluationResult": {
+    "metrics": {
+      "Words": {
+        "$type": "numeric",
+        "value": 30,
+        "name": "Words",
+        "reason": "This Words metric has a value of 30 because the evaluated model response contained 30 words.",
+        "interpretation": {
+          "rating": "good",
+          "failed": false,
+          "reason": "The response was between 6 and 100 words."
+        }
+      },
+      "Relevance": {
+        "$type": "numeric",
+        "value": 5,
+        "name": "Relevance",
+        "reason": "100% of the response is 100% related to the request.",
+        "interpretation": {
+          "rating": "exceptional",
+          "failed": false
+        },
+        "metadata": {
+          "rtc-evaluation-model-used": "gpt-4o-mini-2024-07-18",
+          "rtc-evaluation-input-tokens-used": "2666",
+          "rtc-evaluation-output-tokens-used": "135",
+          "rtc-evaluation-total-tokens-used": "2801",
+          "rtc-evaluation-duration": "0.01 s"
+        }
+      },
+      "Truth": {
+        "$type": "numeric",
+        "value": 4,
+        "name": "Truth",
+        "reason": "Most of the response is true, but the distances are given in both miles and kilometers, which is not consistent with the request for imperial measurements only.",
+        "interpretation": {
+          "rating": "good",
+          "failed": false
+        },
+        "metadata": {
+          "rtc-evaluation-model-used": "gpt-4o-mini-2024-07-18",
+          "rtc-evaluation-input-tokens-used": "2666",
+          "rtc-evaluation-output-tokens-used": "135",
+          "rtc-evaluation-total-tokens-used": "2801",
+          "rtc-evaluation-duration": "0.01 s",
+          "Rationales": "truth_reason_incorrect_information"
+        }
+      },
+      "Completeness": {
+        "$type": "numeric",
+        "value": 5,
+        "name": "Completeness",
+        "reason": "The response includes all points that are necessary to address the request.",
+        "interpretation": {
+          "rating": "exceptional",
+          "failed": false
+        },
+        "metadata": {
+          "rtc-evaluation-model-used": "gpt-4o-mini-2024-07-18",
+          "rtc-evaluation-input-tokens-used": "2666",
+          "rtc-evaluation-output-tokens-used": "135",
+          "rtc-evaluation-total-tokens-used": "2801",
+          "rtc-evaluation-duration": "0.01 s"
+        }
+      }
+    }
+  },
+  "chatDetails": {
+    "turnDetails": [
+      {
+        "latency": 0.0492854,
+        "model": "gpt-4o-mini-2024-07-18",
+        "usage": {
+          "inputTokenCount": 61,
+          "outputTokenCount": 50,
+          "totalTokenCount": 111,
+          "additionalCounts": {
+            "InputTokenDetails.AudioTokenCount": 0,
+            "InputTokenDetails.CachedTokenCount": 0,
+            "OutputTokenDetails.ReasoningTokenCount": 0,
+            "OutputTokenDetails.AudioTokenCount": 0,
+            "OutputTokenDetails.AcceptedPredictionTokenCount": 0,
+            "OutputTokenDetails.RejectedPredictionTokenCount": 0
+          }
+        },
+        "cacheKey": "29ADADFA07851E771528F9DCCC6927E8FB00A63D7510FE1FF109F8525A829DD80BFFDF949853D15A2EB75C1A1F426AE6",
+        "cacheHit": true
+      },
+      {
+        "latency": 0.0012804,
+        "model": "gpt-4o-mini-2024-07-18",
+        "usage": {
+          "inputTokenCount": 2666,
+          "outputTokenCount": 135,
+          "totalTokenCount": 2801,
+          "additionalCounts": {
+            "InputTokenDetails.AudioTokenCount": 0,
+            "InputTokenDetails.CachedTokenCount": 0,
+            "OutputTokenDetails.ReasoningTokenCount": 0,
+            "OutputTokenDetails.AudioTokenCount": 0,
+            "OutputTokenDetails.AcceptedPredictionTokenCount": 0,
+            "OutputTokenDetails.RejectedPredictionTokenCount": 0
+          }
+        },
+        "cacheKey": "A1D1E9C8F12D4930BF6E5637E34F12C4189A488A31AAE34D8FB15711973A795CECF7259943062F43FF92BC601C902C80",
+        "cacheHit": true
+      }
+    ]
+  },
+  "formatVersion": 1
+}

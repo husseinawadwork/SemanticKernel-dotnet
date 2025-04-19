@@ -1,0 +1,34 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "contents": [
+        {
+          "$type": "text",
+          "text": "The Moon is about 225,623 miles (363,104 kilometers) from Earth at its closest point (perigee) and approximately 252,088 miles (405,696 kilometers) at its furthest point (apogee)."
+        }
+      ],
+      "messageId": "chatcmpl-BNrFCI2bDYfQc4gMqeShnkDKYNkFe"
+    }
+  ],
+  "responseId": "chatcmpl-BNrFCI2bDYfQc4gMqeShnkDKYNkFe",
+  "modelId": "gpt-4o-mini-2024-07-18",
+  "createdAt": "2025-04-19T01:25:14+00:00",
+  "finishReason": "stop",
+  "usage": {
+    "inputTokenCount": 61,
+    "outputTokenCount": 50,
+    "totalTokenCount": 111,
+    "additionalCounts": {
+      "InputTokenDetails.AudioTokenCount": 0,
+      "InputTokenDetails.CachedTokenCount": 0,
+      "OutputTokenDetails.ReasoningTokenCount": 0,
+      "OutputTokenDetails.AudioTokenCount": 0,
+      "OutputTokenDetails.AcceptedPredictionTokenCount": 0,
+      "OutputTokenDetails.RejectedPredictionTokenCount": 0
+    }
+  },
+  "additionalProperties": {
+    "SystemFingerprint": "fp_b705f0c291"
+  }
+}
