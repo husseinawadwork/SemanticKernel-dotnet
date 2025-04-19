@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 - AI Travel agent", "12 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 - Reasoning", "13 - Reasoning\13 - Reasoning.csproj", "{79A7F356-79D6-4062-9454-31DE6BD3FA2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 - Eval a Model response", "14 - Eval a Model response\14 - Eval a Model response.csproj", "{3E25EC17-06D3-4FF8-8D7E-A6EE21F54E58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{79A7F356-79D6-4062-9454-31DE6BD3FA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79A7F356-79D6-4062-9454-31DE6BD3FA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79A7F356-79D6-4062-9454-31DE6BD3FA2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E25EC17-06D3-4FF8-8D7E-A6EE21F54E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E25EC17-06D3-4FF8-8D7E-A6EE21F54E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E25EC17-06D3-4FF8-8D7E-A6EE21F54E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E25EC17-06D3-4FF8-8D7E-A6EE21F54E58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

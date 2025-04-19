@@ -1,0 +1,10 @@
+/*
+dotnet add package Azure.AI.OpenAI
+dotnet add package Azure.Identity
+dotnet add package Microsoft.Extensions.AI.Abstractions --prerelease
+dotnet add package Microsoft.Extensions.AI.Evaluation --prerelease
+dotnet add package Microsoft.Extensions.AI.Evaluation.Quality --prerelease
+dotnet add package Microsoft.Extensions.AI.OpenAI --prerelease
+dotnet add package Microsoft.Extensions.Configuration
+dotnet add package Microsoft.Extensions.Configuration.UserSecrets
+*/
