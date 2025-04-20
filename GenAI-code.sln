@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28 - SK search Vector store
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29 - SK Azure AI Search", "29 - SK Azure AI Search\29 - SK Azure AI Search.csproj", "{24752455-F29C-4C90-B7DC-E10C3230A72A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30 - AI Agent File processing", "30 - AI Agent File processing\30 - AI Agent File processing.csproj", "{5C25A3A6-F81B-4BAC-A9E3-1D654D785286}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -192,5 +194,9 @@ Global
 		{24752455-F29C-4C90-B7DC-E10C3230A72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24752455-F29C-4C90-B7DC-E10C3230A72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24752455-F29C-4C90-B7DC-E10C3230A72A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C25A3A6-F81B-4BAC-A9E3-1D654D785286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C25A3A6-F81B-4BAC-A9E3-1D654D785286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C25A3A6-F81B-4BAC-A9E3-1D654D785286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C25A3A6-F81B-4BAC-A9E3-1D654D785286}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

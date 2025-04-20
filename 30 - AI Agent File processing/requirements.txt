@@ -1,0 +1,6 @@
+/*
+dotnet add package Microsoft.SemanticKernel
+dotnet add package Microsoft.SemanticKernel.Connectors.AzureOpenAI
+dotnet add package Azure.Identity
+dotnet add package Microsoft.SemanticKernel.Agents.AzureAI --version 1.45.0-preview
+*/
