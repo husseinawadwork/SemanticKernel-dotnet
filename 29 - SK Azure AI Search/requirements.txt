@@ -1,0 +1,7 @@
+/*
+dotnet add package Microsoft.SemanticKernel
+dotnet add package Microsoft.Extensions.VectorData
+dotnet add package Microsoft.SemanticKernel.Connectors.InMemory --version 1.45.0-preview
+dotnet add package Microsoft.SemanticKernel.Connectors.AzureOpenAI
+dotnet add package Microsoft.SemanticKernel.Connectors.AzureAISearch --version 1.45.0-preview
+*/

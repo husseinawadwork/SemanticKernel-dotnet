@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27 - SK ingest in memory ve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28 - SK search Vector store", "28 - SK search Vector store\28 - SK search Vector store.csproj", "{B3FA30E0-CA7B-40FE-AC57-18E1B386CD8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29 - SK Azure AI Search", "29 - SK Azure AI Search\29 - SK Azure AI Search.csproj", "{24752455-F29C-4C90-B7DC-E10C3230A72A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -186,5 +188,9 @@ Global
 		{B3FA30E0-CA7B-40FE-AC57-18E1B386CD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3FA30E0-CA7B-40FE-AC57-18E1B386CD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3FA30E0-CA7B-40FE-AC57-18E1B386CD8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24752455-F29C-4C90-B7DC-E10C3230A72A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24752455-F29C-4C90-B7DC-E10C3230A72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24752455-F29C-4C90-B7DC-E10C3230A72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24752455-F29C-4C90-B7DC-E10C3230A72A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
