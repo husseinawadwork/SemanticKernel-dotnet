@@ -16,7 +16,7 @@ namespace TelemetryConsoleQuickstart
         static async Task Main(string[] args)
         {
             // Replace the connection string with your Application Insights connection string
-            var connectionString = "InstrumentationKey=247ddd1f-f9e9-4917-a15a-e1743e914b41;IngestionEndpoint=https://australiaeast-1.in.applicationinsights.azure.com/;LiveEndpoint=https://australiaeast.livediagnostics.monitor.azure.com/;ApplicationId=0abf6006-c5d8-4f14-afbe-e4811d034372";
+            var connectionString = "%APPLICATION_INSIGHTS_CONNECTION_STRING%";
 
             var resourceBuilder = ResourceBuilder
                 .CreateDefault()
