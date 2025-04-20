@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25 - SK Open Tele", "25 - S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26 - SK Open Tele App Insights", "26 - SK Open Tele App Insights\26 - SK Open Tele App Insights.csproj", "{5D76226C-A3E0-4739-B038-517DA1309727}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27 - SK ingest in memory vector store", "27 - SK ingest in memory vector store\27 - SK ingest in memory vector store.csproj", "{EC2DE357-1976-41B9-8B59-DEE076BA533C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -174,5 +176,9 @@ Global
 		{5D76226C-A3E0-4739-B038-517DA1309727}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D76226C-A3E0-4739-B038-517DA1309727}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D76226C-A3E0-4739-B038-517DA1309727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2DE357-1976-41B9-8B59-DEE076BA533C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2DE357-1976-41B9-8B59-DEE076BA533C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2DE357-1976-41B9-8B59-DEE076BA533C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2DE357-1976-41B9-8B59-DEE076BA533C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
