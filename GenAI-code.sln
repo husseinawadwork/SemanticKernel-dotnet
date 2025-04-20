@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22 - SK observability", "22
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23 - SK pipelines", "23 - SK pipelines\23 - SK pipelines.csproj", "{E0F078B4-F00E-48A7-B918-5EF1DC5A705F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24 - SK Plugin DI", "24 - SK Plugin DI\24 - SK Plugin DI.csproj", "{D061A1D3-5381-48E3-9F1D-9F210A172715}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -156,5 +158,9 @@ Global
 		{E0F078B4-F00E-48A7-B918-5EF1DC5A705F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0F078B4-F00E-48A7-B918-5EF1DC5A705F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0F078B4-F00E-48A7-B918-5EF1DC5A705F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D061A1D3-5381-48E3-9F1D-9F210A172715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D061A1D3-5381-48E3-9F1D-9F210A172715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D061A1D3-5381-48E3-9F1D-9F210A172715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D061A1D3-5381-48E3-9F1D-9F210A172715}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
