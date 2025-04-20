@@ -1,0 +1,6 @@
+/*
+dotnet add package Microsoft.SemanticKernel
+dotnet add package OpenTelemetry.Resources.Azure --version 1.11.0-beta.2
+dotnet add package OpenTelemetry --version 1.11.2
+dotnet add package Azure.Monitor.OpenTelemetry.Exporter
+*/
