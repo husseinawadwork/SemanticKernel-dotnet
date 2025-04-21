@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36 - AI Agent Chat Completi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37 - AI Agent CHat Completion Streaming", "37 - AI Agent CHat Completion Streaming\37 - AI Agent CHat Completion Streaming.csproj", "{C3258D7B-E1A1-46BF-8359-6BBE5BCFA50B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38 - AI Agent Chat Completion Templating", "38 - AI Agent Chat Completion Templating\38 - AI Agent Chat Completion Templating.csproj", "{BE8F1B3F-45A1-4ABD-A229-021F4151A7C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -240,5 +242,9 @@ Global
 		{C3258D7B-E1A1-46BF-8359-6BBE5BCFA50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3258D7B-E1A1-46BF-8359-6BBE5BCFA50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3258D7B-E1A1-46BF-8359-6BBE5BCFA50B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE8F1B3F-45A1-4ABD-A229-021F4151A7C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8F1B3F-45A1-4ABD-A229-021F4151A7C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8F1B3F-45A1-4ABD-A229-021F4151A7C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8F1B3F-45A1-4ABD-A229-021F4151A7C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,9 @@
+/*
+dotnet add package Microsoft.SemanticKernel
+dotnet add package Microsoft.SemanticKernel.Connectors.AzureOpenAI
+dotnet add package Azure.Identity
+dotnet add package Microsoft.SemanticKernel.Agents.AzureAI --version 1.45.0-preview
+dotnet add package Microsoft.SemanticKernel.Agents.Core --version 1.45.0
+dotnet add package Microsoft.SemanticKernel.PromptTemplates.Handlebars --version 1.45.0
+dotnet add package Microsoft.SemanticKernel.PromptTemplates.Liquid --version 1.45.0-preview
+*/
