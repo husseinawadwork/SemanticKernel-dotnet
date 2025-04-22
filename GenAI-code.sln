@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40 - Multi Agent Files", "4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41 - Multi Agent Images", "41 - Multi Agent Images\41 - Multi Agent Images.csproj", "{600CB294-23FD-4272-81C2-B34983202907}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42 - multi agent reset", "42 - multi agent reset\42 - multi agent reset.csproj", "{253A302F-0D97-4CBF-A93D-89895D53D6D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -264,5 +266,9 @@ Global
 		{600CB294-23FD-4272-81C2-B34983202907}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{600CB294-23FD-4272-81C2-B34983202907}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{600CB294-23FD-4272-81C2-B34983202907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253A302F-0D97-4CBF-A93D-89895D53D6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253A302F-0D97-4CBF-A93D-89895D53D6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253A302F-0D97-4CBF-A93D-89895D53D6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253A302F-0D97-4CBF-A93D-89895D53D6D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
