@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42 - multi agent reset", "4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "43 - multi agent seralization", "43 - multi agent seralization\43 - multi agent seralization.csproj", "{8285198C-906B-4D5B-A6A3-8064D7EF30A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "44 - Multi Agent Streaming", "44 - Multi Agent Streaming\44 - Multi Agent Streaming.csproj", "{D24DB78C-A704-4DED-A6C3-D040CCA3FDF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -276,5 +278,9 @@ Global
 		{8285198C-906B-4D5B-A6A3-8064D7EF30A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8285198C-906B-4D5B-A6A3-8064D7EF30A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8285198C-906B-4D5B-A6A3-8064D7EF30A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D24DB78C-A704-4DED-A6C3-D040CCA3FDF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24DB78C-A704-4DED-A6C3-D040CCA3FDF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24DB78C-A704-4DED-A6C3-D040CCA3FDF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24DB78C-A704-4DED-A6C3-D040CCA3FDF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
