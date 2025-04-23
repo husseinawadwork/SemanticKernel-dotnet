@@ -95,6 +95,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "44 - Multi Agent Streaming"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45 - ChatCompletionPrompt", "45 - ChatCompletionPrompt\45 - ChatCompletionPrompt.csproj", "{8C87036C-EB5D-47C5-A239-CD9DC9F2F502}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46 - ChatLoop with Prompt", "46 - ChatLoop with Prompt\46 - ChatLoop with Prompt.csproj", "{8639151F-1986-4C8B-8A0C-12BD87C5A8AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -288,5 +290,9 @@ Global
 		{8C87036C-EB5D-47C5-A239-CD9DC9F2F502}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C87036C-EB5D-47C5-A239-CD9DC9F2F502}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C87036C-EB5D-47C5-A239-CD9DC9F2F502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8639151F-1986-4C8B-8A0C-12BD87C5A8AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8639151F-1986-4C8B-8A0C-12BD87C5A8AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8639151F-1986-4C8B-8A0C-12BD87C5A8AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8639151F-1986-4C8B-8A0C-12BD87C5A8AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
