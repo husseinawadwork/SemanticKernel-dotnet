@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47 - chat with prompt", "47
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48 - Handlebars and liquid templates", "48 - Handlebars and liquid templates\48 - Handlebars and liquid templates.csproj", "{BE399F82-C183-4691-82FF-E56B81EA1527}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "49 - handlebars-vision-prmopt", "49 - handlebars-vision-prmopt\49 - handlebars-vision-prmopt.csproj", "{A2FA56C0-5CCB-45C4-8472-A146F05711AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -306,5 +308,9 @@ Global
 		{BE399F82-C183-4691-82FF-E56B81EA1527}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE399F82-C183-4691-82FF-E56B81EA1527}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE399F82-C183-4691-82FF-E56B81EA1527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2FA56C0-5CCB-45C4-8472-A146F05711AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FA56C0-5CCB-45C4-8472-A146F05711AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2FA56C0-5CCB-45C4-8472-A146F05711AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2FA56C0-5CCB-45C4-8472-A146F05711AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

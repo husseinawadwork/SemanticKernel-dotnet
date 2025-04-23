@@ -1,0 +1,6 @@
+/*
+dotnet add package Microsoft.SemanticKernel
+dotnet add package Microsoft.SemanticKernel.Connectors.AzureOpenAI
+dotnet add package Microsoft.SemanticKernel.PromptTemplates.Handlebars --version 1.47.0
+dotnet add package Microsoft.SemanticKernel.Plugins.Core --version 1.47.0-alpha
+*/
