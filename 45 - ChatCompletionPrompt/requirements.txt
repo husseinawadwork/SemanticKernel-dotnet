@@ -1,0 +1,4 @@
+/*
+dotnet add package Microsoft.SemanticKernel
+dotnet add package Microsoft.SemanticKernel.Connectors.AzureOpenAI
+*/
